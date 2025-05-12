@@ -44,4 +44,4 @@ logger.addHandler(file_handler)
 logger.addHandler(console_handler)
 
 # 记录日志
-logger.info("日志系统初始化成功")
+# logger.info("日志系统初始化成功")
